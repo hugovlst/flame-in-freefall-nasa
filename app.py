@@ -1,0 +1,1 @@
+##C'est le fichier principal et le "chef d'orchestre" de votre code. Lorsque vous lancez l'application dans votre terminal avec la commande streamlit run app.py, Python démarre l'exécution par ce fichier. Son rôle est d'initialiser la page web, de créer la barre de navigation latérale et de relier les différents modules 
