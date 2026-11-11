@@ -1,0 +1,1 @@
+#liste officielle des outils et bibliothèques dont le projet a besoin. Il suffit de taper : pip install -r requirements.txt pour que le terminal installe tout
